@@ -30,14 +30,16 @@ Validate the models using cross-validation techniques and test them on unseen da
 Deploy the trained models into production environments to monitor equipment health and trigger maintenance alerts.
 
 # Case Studies: 
-# Equipment Failure Prediction: Case study demonstrating how predictive maintenance reduced downtime and maintenance costs for a manufacturing plant.
-# Fleet Management: Case study illustrating how predictive maintenance improved the reliability of industrial machinery in a fleet of vehicles.
+# Equipment Failure Prediction: 
+Case study demonstrating how predictive maintenance reduced downtime and maintenance costs for a manufacturing plant.
+# Fleet Management: 
+Case study illustrating how predictive maintenance improved the reliability of industrial machinery in a fleet of vehicles.
 Resources
 
 # Documentation:
-        Links to relevant documentation and tutorials for implementing predictive maintenance.        
+Links to relevant documentation and tutorials for implementing predictive maintenance.        
 # Papers: 
-        References to academic research papers and studies on predictive maintenance techniques.     
+References to academic research papers and studies on predictive maintenance techniques.     
 
 # Conclusion
 Predictive maintenance is a powerful approach for ensuring the reliability and efficiency of industrial equipment. By leveraging data-driven insights and advanced analytics, organizations can optimize maintenance processes, reduce costs, and maximize operational uptime.
